@@ -1,12 +1,13 @@
-Here you cab use :
+Here you can use these functions in your calculations:
+First function:
 
     >>> from simple_functions import factorial
     >>> factorial(10)
     9
 
-and this other part does something.  I forget why that I did it:
+Second function:
 
     >>> fibonnaccci(100)
     [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
 
-If you can't use it, its kind of your problem, not mine!
+If you have any problem please let us know!
